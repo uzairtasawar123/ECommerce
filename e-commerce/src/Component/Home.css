@@ -1,0 +1,20 @@
+.first_div{
+    background-image: url('../Images/home.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height : 500px;
+}
+h5{
+    font-family: 'Rubik Marker Hatch', cursive;    font-weight: bold;
+}
+.iam_h1{
+    font-family: 'Dancing Script', cursive;
+}
+.product_row{
+
+    display: flex;
+    
+}
+.available{
+    font-family: 'Rubik Dirt', cursive;
+}

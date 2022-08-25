@@ -1,0 +1,7 @@
+.hello_col{
+    box-shadow: 0px 0px 10px  grey ;
+    transform: scale(1);
+}
+.hello_col:hover{
+     transform: scale(1.1);
+}
